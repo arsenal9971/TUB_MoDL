@@ -1,6 +1,6 @@
-Daedalus Intensive Course - Tensorflow Session
+TU Berlin course on Mathematics of Deep Learning - Tensorflow Session
 ==============================================
-*05 December 2018*
+*29 October 2019*
 
 **Intended for participants of the course**
 
