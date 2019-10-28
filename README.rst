@@ -60,7 +60,7 @@ Installation instructions
         $ conda install scipy
         $ conda install matplotlib
         $ conda install jupyter
-        $ pip install tensorflow==1.13
+        $ pip install tensorflow==1.13.0rc1
 
 6. To test if your Tensorflow installation was successful you can open Python 3 in a command line and run
 
